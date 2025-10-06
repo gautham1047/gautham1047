@@ -1,5 +1,7 @@
 ## Hi! I'm Gautham
 
+Formerly GSO47
+
 I'm a CSE + Applied Math student at UCLA and I'm planning on being a full-stack developer. I've been focusing on my frontend skills recently, but most of my current projects are more focused on the backend behind the website. I also have a lot of experience with scientific computing because I like math :).
 
 ## Skills & Technologies
